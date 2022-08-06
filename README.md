@@ -33,7 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-
 ## Install react-icons
 
 ```bash
@@ -43,9 +42,18 @@ npm install react icons
 ## Install Tailwind CSS for NextJS
 
 1. Got to [TailwindCSS](https://tailwindcss.com/docs/guides/nextjs)
-2. Follow the steps 
+2. Follow the steps
 
 ```bash
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
+
+## How to install prettier in VSCode
+
+1. Install prettier from extenstion
+2. Go to settings
+3. Go to formatter and choose default formatter as prettier.
+4. Go to prettier and choose Require config to checked.
+
+Video Link - [Prettier](https://www.youtube.com/watch?v=Gmz27agvLYg)
