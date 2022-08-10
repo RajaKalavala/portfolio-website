@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Contact from "../components/Contact";
 import Experience from "../components/Experience";
 import HomePage from "../components/HomePage";
 import Me from "../components/Me";
@@ -13,6 +14,7 @@ export default function Home() {
       <Portfolio />
       <Experience />
       <Me />
+      <Contact />
     </div>
   );
 }
