@@ -9,27 +9,27 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      title: "react weather app",
+      title: "test app 1",
       imageSrc: myPortfolio,
-      url: "react-weather",
+      url: "test-app-1",
     },
     {
       id: 2,
-      title: "install node",
+      title: "test app 2",
       imageSrc: myPortfolio,
-      url: "install-node",
+      url: "test-app-2",
     },
     {
       id: 3,
-      title: "use state explained",
+      title: "test app 3",
       imageSrc: myPortfolio,
-      url: "use-state-hook",
+      url: "test-app-3",
     },
     {
       id: 4,
-      title: "react parallax scroll",
+      title: "test app 4",
       imageSrc: myPortfolio,
-      url: "react-parallax",
+      url: "test-app-4",
     },
   ];
 
