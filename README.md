@@ -57,3 +57,13 @@ npx tailwindcss init -p
 4. Go to prettier and choose Require config to checked.
 
 Video Link - [Prettier](https://www.youtube.com/watch?v=Gmz27agvLYg)
+
+## Using getform.io to post forms
+
+1. go to this link - (https://getform.io/)
+2. Create endpoint.
+3. Paste that endpoint inside forms
+
+```bash
+<form action="https://getform.io/f/4d956935-be4b-415c-a004-5ede642cda2a" method="POST">
+```
